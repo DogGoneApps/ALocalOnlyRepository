@@ -1,4 +1,3 @@
-*A Local Only Github Repository
+# A Local Only Github Repository
 
-**DogGoneApps ...  Life is an adventure!
-
+## DogGoneApps ...  Life is an adventure!
